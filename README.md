@@ -54,9 +54,3 @@ A RESTful API for managing library operations built with Django REST Framework.
 - `POST /api/transactions/issue/` - Issue book
 - `POST /api/transactions/return/` - Return book
 
-## Testing
-Run tests: `python manage.py test`
-
-## Documentation
-
-API documentation available at: http://localhost:8000/docs/
