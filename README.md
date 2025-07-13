@@ -9,7 +9,7 @@ A RESTful API for managing library operations built with Django REST Framework.
 - Book issue/return transactions
 - Automatic inventory tracking
 - Data validation
-- Auto-generated API documentation
+
 
 ## Setup Instructions
 
