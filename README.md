@@ -21,7 +21,7 @@ A RESTful API for managing library operations built with Django REST Framework.
 ### Installation
 
 1. Clone the repository
-2. Create virtual environment: `python -m venv venv`
+2. Create virtual environment: `py -3.11 -m venv venv`
 3. Activate virtual environment: `source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Set up environment variables in `.env`
